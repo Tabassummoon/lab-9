@@ -1,0 +1,9 @@
+div{
+    background-image: url(/Assests/Images/flower\ .png);
+    background-repeat: no-repeat;
+    height: 500px;
+}
+div p span{
+    color:olivedrab;
+    font-size: 22px;
+}
